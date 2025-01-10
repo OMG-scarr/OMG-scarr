@@ -11,7 +11,7 @@
 
 **Projects:**
 
-* **School Project:** (Brief description) - [Link to repository (if available)]
+* **School Project:** 
 
 **Goals:**
 
