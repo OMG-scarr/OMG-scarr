@@ -7,7 +7,7 @@
 **Skills:**
 
 * **Languages:** JavaScript, Python (Learning), Go (Learning)
-* **Tools:** [List of tools you use]
+* **Tools:** 
 
 **Projects:**
 
@@ -15,9 +15,9 @@
 
 **Goals:**
 
-* **Become proficient in:** [List of technologies]
-* **Contribute to:** [Open-source projects or communities]
-* **Build:** [Type of projects you want to work on]
+* **Become proficient in:** AI, NLP, Data Science.
+* **Contribute to:** 
+* **Build:** AI
 
 **Connect with me:**
 
