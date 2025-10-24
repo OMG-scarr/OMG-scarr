@@ -2,7 +2,7 @@
 
 [![Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamQ1YmUzeXNjZTV4Znh0cHdrdjl5NG9mNnBicGF1Mm5la29zbmlhbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qJzZ4APiDZQuJDY7vh/giphy.gif)](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamQ1YmUzeXNjZTV4Znh0cHdrdjl5NG9mNnBicGF1Mm5la29zbmlhbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/)
 
-<h2># 👋 Hi, I’m Gatheru Oscar Muthomi  </h2>
+<h2> 👋 Hi, I’m Gatheru Oscar Muthomi  </h2>
 
 🎓 Final-year **Computer Science student** passionate about **Artificial Intelligence, Software Development, and Innovation**.  
 I enjoy building projects that solve real-world problems and exploring emerging technologies like AI, Web3, and advanced computing.  
