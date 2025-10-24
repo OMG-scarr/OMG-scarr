@@ -30,7 +30,7 @@ I enjoy building projects that solve real-world problems and exploring emerging 
 - 📧 Email: [sir.oscargatheru@gmail.com](mailto:sir.oscargatheru@gmail.com)  
 - 🌐 GitHub: [OMG-scarr](https://github.com/OMG-scarr)  
 - 🐦 Twitter: [@acorsmg](https://twitter.com/acorsmg)  
-- 💼 LinkedIn: [Sir Oscar Gatheru](www.linkedin.com/in/sir-oscar-gatheru)  
+- 💼 LinkedIn: [Sir Oscar Gatheru](https://www.linkedin.com/in/sir-oscar-gatheru/)  
 
 ---
 
