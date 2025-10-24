@@ -2,7 +2,7 @@
 
 [![Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamQ1YmUzeXNjZTV4Znh0cHdrdjl5NG9mNnBicGF1Mm5la29zbmlhbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qJzZ4APiDZQuJDY7vh/giphy.gif)](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamQ1YmUzeXNjZTV4Znh0cHdrdjl5NG9mNnBicGF1Mm5la29zbmlhbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/)
 
-# 👋 Hi, I’m Gatheru Oscar Muthomi  
+<h2># 👋 Hi, I’m Gatheru Oscar Muthomi  </h2>
 
 🎓 Final-year **Computer Science student** passionate about **Artificial Intelligence, Software Development, and Innovation**.  
 I enjoy building projects that solve real-world problems and exploring emerging technologies like AI, Web3, and advanced computing.  
@@ -11,8 +11,7 @@ I enjoy building projects that solve real-world problems and exploring emerging 
 
 ## 🔧 Tech Stack  
 - **Languages:** Python | JavaScript | Golang  
-- **AI/ML:** LangChain | NLP | Vector Databases | Data Visualization  
-- **Web Development:** React | Node.js (basics)  
+- **AI/ML:** LangChain | NLP | Vector Databases  
 - **UI/UX Design:** Adobe Creative Suite | Figma | Canva  
 - **Databases:** MySQL | PostgreSQL | VectorStore  
 
@@ -37,4 +36,4 @@ I enjoy building projects that solve real-world problems and exploring emerging 
 
 ✨ *Always open to collaborating on innovative projects, contributing to open-source, or discussing new ideas in AI and software engineering.*  
 
-![GitHub Banner](./A_digital_graphic_design_banner_introduces_Oscar_G.png)
+![GitHub Banner](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGJ1N2o4Y2R5eHF5OXQwcTl0NDlkOXJrYzN5YXFtbjExY3ZhbWRheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/9dpRdBxidjDOBt3NpM/giphy.gif)
