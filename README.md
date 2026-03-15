@@ -4,7 +4,7 @@
 
 <h2> 👋 Hi, I’m Gatheru Oscar Muthomi  </h2>
 
-a **Computer Science Graduate** passionate about **Artificial Intelligence, Software Development, and Innovation**.  
+A **Computer Science Graduate** passionate about **Artificial Intelligence, Software Development, and Innovation**.  
 I enjoy building projects that solve real-world problems and exploring emerging technologies like AI, Web3, and advanced computing.  
 
 ---
